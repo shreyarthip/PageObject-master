@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5fa5998-4950-49a4-a5a2-64c610d5c252" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eXwFGqFZzLGz6iq8RlNeuOEbzy" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cheta\IdeaProjects\PageObject\src\test\BrowserDrivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit.IframeTopic">
+    <configuration name="TestSuit.CheckingAssertForCreatePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObject-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="CheckingAssertForCreatePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.CurrencySelect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObject-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="CurrencySelect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.IframeTopic" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObject-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="IframeTopic" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.UserOnNewOnlineStore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObject-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="UserOnNewOnlineStore" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userClickOnFaceBookButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObject-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="userClickOnFaceBookButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit.IframeTopic" />
+        <item itemvalue="TestNG.TestSuit.UserOnNewOnlineStore" />
+        <item itemvalue="TestNG.TestSuit.CurrencySelect" />
+        <item itemvalue="TestNG.TestSuit.CheckingAssertForCreatePage" />
+        <item itemvalue="TestNG.TestSuit.userClickOnFaceBookButton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5fa5998-4950-49a4-a5a2-64c610d5c252" name="Default Changelist" comment="" />
+      <created>1594481139696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594481139696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594501429958">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="422" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1594501429958" />
+    <state x="466" y="238" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594681523787">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="466" y="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1594681523787" />
+    <state x="466" y="238" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1594654781114" />
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594659386818">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1594659386818" />
+    <state width="1323" height="343" key="GridCell.Tab.0.bottom" timestamp="1595443326795">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="343" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595443326795" />
+    <state width="1323" height="343" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595442908219" />
+    <state width="1323" height="343" key="GridCell.Tab.0.center" timestamp="1595443326795">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="343" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595443326795" />
+    <state width="1323" height="343" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595442908219" />
+    <state width="1323" height="343" key="GridCell.Tab.0.left" timestamp="1595443326795">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="343" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595443326795" />
+    <state width="1323" height="343" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595442908219" />
+    <state width="1323" height="343" key="GridCell.Tab.0.right" timestamp="1595443326795">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="343" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595443326795" />
+    <state width="1323" height="343" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595442908219" />
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog" timestamp="1595115965844">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595115965844" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1595357449724">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1595357449724" />
+  </component>
+</project>
