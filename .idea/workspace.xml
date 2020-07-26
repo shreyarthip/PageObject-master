@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5fa5998-4950-49a4-a5a2-64c610d5c252" name="Default Changelist" comment="" />
+    <list default="true" id="a5fa5998-4950-49a4-a5a2-64c610d5c252" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BrowserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BrowserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegisterSuccessPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegisterSuccessPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/BrowserDrivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/BrowserDrivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/BrowserManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BrowserManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Iframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Iframe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/RegisterSuccessPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/RegisterSuccessPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Util.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +46,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eXwFGqFZzLGz6iq8RlNeuOEbzy" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -21,15 +56,30 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/BrowserDrivers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cheta\IdeaProjects\PageObject-master\src\test\resources\BrowserDrivers" />
       <recent name="C:\Users\cheta\IdeaProjects\PageObject\src\test\BrowserDrivers" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cheta\IdeaProjects\PageObject-master\src\test\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSuit.IframeTopic">
-    <configuration name="TestSuit.CheckingAssertForCreatePage" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RunTest (1)">
+    <configuration name="RunTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PageObject-master" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PageObject-master" />
       <extension name="coverage">
         <pattern>
@@ -38,11 +88,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
-      <option name="METHOD_NAME" value="CheckingAssertForCreatePage" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="MAIN_CLASS_NAME" value="org.example.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,31 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuit.userClickOnFaceBookButton" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PageObject-master" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
-      <option name="METHOD_NAME" value="userClickOnFaceBookButton" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RunTest (1)" />
+        <item itemvalue="JUnit.RunTest" />
         <item itemvalue="TestNG.TestSuit.IframeTopic" />
         <item itemvalue="TestNG.TestSuit.UserOnNewOnlineStore" />
         <item itemvalue="TestNG.TestSuit.CurrencySelect" />
-        <item itemvalue="TestNG.TestSuit.CheckingAssertForCreatePage" />
-        <item itemvalue="TestNG.TestSuit.userClickOnFaceBookButton" />
       </list>
     </recent_temporary>
   </component>
@@ -142,11 +171,23 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594501429958">
+    <state x="422" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595715011690">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="422" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1594501429958" />
+    <state x="422" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595715011690" />
     <state x="466" y="238" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594681523787">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -156,30 +197,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1594659386818" />
-    <state width="1323" height="343" key="GridCell.Tab.0.bottom" timestamp="1595443326795">
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1595715189337">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="343" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595443326795" />
-    <state width="1323" height="343" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595442908219" />
-    <state width="1323" height="343" key="GridCell.Tab.0.center" timestamp="1595443326795">
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595715189337" />
+    <state width="1323" height="343" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595460920559" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1595715189337">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="343" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595443326795" />
-    <state width="1323" height="343" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595442908219" />
-    <state width="1323" height="343" key="GridCell.Tab.0.left" timestamp="1595443326795">
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595715189337" />
+    <state width="1323" height="343" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595460920559" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1595715189336">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="343" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595443326795" />
-    <state width="1323" height="343" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595442908219" />
-    <state width="1323" height="343" key="GridCell.Tab.0.right" timestamp="1595443326795">
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595715189336" />
+    <state width="1323" height="343" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595460920559" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1595715189337">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="343" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595443326795" />
-    <state width="1323" height="343" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595442908219" />
-    <state x="213" y="24" key="Maven.ArtifactSearchDialog" timestamp="1595115965844">
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595715189337" />
+    <state width="1323" height="343" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595460920559" />
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog" timestamp="1595703027150">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="213" y="24" key="Maven.ArtifactSearchDialog/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595115965844" />
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595703027150" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1595692686503">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595692686503" />
+    <state x="65" y="30" key="new project wizard" timestamp="1595714001235">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="30" key="new project wizard/0.0.1366.738/-1920.-318.1536.864@0.0.1366.738" timestamp="1595714001235" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1595357449724">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

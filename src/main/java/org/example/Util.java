@@ -44,7 +44,7 @@ public class Util extends BasePage {
         select.selectByVisibleText(text);
     }
 
-    
+
     public static String getTextFromElement(By by) {
         return driver.findElement(by).getText();
     }
